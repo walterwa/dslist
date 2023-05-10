@@ -11,7 +11,6 @@ INDEX VERSION 1.132+/home/walterw/Documentos/JAVA/DevSuperior/minhaVersao/.metad
 3578869672.index
 3361877058.index
 1650639499.index
-3959580252.index
 1970300070.index
 3205170202.index
 3112160736.index
