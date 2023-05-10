@@ -1,0 +1,16 @@
+package com.devsuperior.dslist.services;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.devsuperior.dslist.dto.GameMinDTO;
+
+@Service
+public class GameService {
+	
+	public List<GameMinDTO> findAll() {
+		
+	}
+
+}
